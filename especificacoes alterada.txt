@@ -1,0 +1,52 @@
+FONTES:
+
+-Estágio | Prova de seleção: Helvetica 25 UltraLight Regular
+
+-Títulos da página (Cadastro, Lista de cadastro): Helvetica 25 UltraLight Regular
+-Fundo de cadastro: #29abe2
+
+-Chamada de campo de preenchimento (Nome, E-mail...): Roboto Regular
+
+-Preenchimento do formulário (Fulano Beltrano...) Helvetica Condensed Regular
+
+-Botão (Cadastrar): Helvetica 25 UltraLight Regular
+-Botão 'Cadastrar": #012d51
+-Título do botão 'Cadastrar': #29abe2
+
+-Menu (Desktop e Mobile/Tablet): Roboto Regular
+
+
+-Tabela:
+	Números: Roboto Light
+	Títulos das colunas (Nome, E-mail...): Roboto Regular
+	Informações (Fulano Beltrano...): Helvetica Condensed Regular
+-Informações da tabela: #808080
+-Números da tabela: #012d51
+-Títulos das colunas da tabela:#012d51
+-Linhas da tabela: #29abe2
+
+-Rodapé: Roboto Light
+
+
+CORES:
+<div id="lista">
+        <div class="listadecadastro">
+            <div class="title">
+                <span class="byline">
+                    <h6><p>LISTA DE CADASTRO </p></h6>
+                    <h5><p>Gabriel Pedro Braga Vieira </p></h5>
+                    <h5><p>Gabriel031_@hotmail.com</p></h5>
+                    <h5><p>31 992016733</p></h5>
+                    <h5><p>Contagem - Minas Gerais</p></h5>
+                    
+                </span>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
